@@ -546,6 +546,7 @@ PRODUCT_PACKAGES += \
     SoterService \
     WfdService \
     com.qualcomm.location \
+    chargeonlymode \
     CneApp \
     IWlanService \
     TimeService \
